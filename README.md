@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melvina Christy N</h1>
-<h3 align="center">"Passionate Advocate for Innovative Software Engineering, Artificial Intelligence Advancements, and Cutting-Edge Machine Learning Techniques | Possessing a unique blend of technical acumen and out-of-the-box thinking"</h3>
+<h3 align="center">"Passionate Advocate for Innovative Software Engineering, Artificial Intelligence Advancements, and Cutting-Edge Machine Learning Techniques | Possessing a unique blend of technical acumen and out-of-the-box thinking</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melvvvvina" alt="melvvvvina" /></a> </p>
 
