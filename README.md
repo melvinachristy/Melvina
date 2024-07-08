@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://melvina-resume.tiiny.site](https://melvina-resume.tiiny.site)
 
-- ⚡ Fun fact **Certainly! Fun fact about me "I can speak four languages fluently: English, Tamil, Malayalam, and Korean!"**
+- ⚡ Fun fact: I can speak four languages fluently: English, Tamil, Malayalam, and Korean!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
